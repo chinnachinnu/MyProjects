@@ -1,0 +1,34 @@
+/*class A{  
+void msg(){System.out.println("Hello");}  
+}  
+class B{  
+void msg(){System.out.println("Welcome");}  
+}  
+
+class C extends A,B{ //suppose if it were  
+   
+ public static void main(String args[]){  
+   C obj=new C();  
+   obj.msg();   //Now which msg() method would be invoked?  
+}  
+}  
+*/
+
+// multiple inheritance in interfaces
+
+interface Printable{  
+void print();  
+}  
+interface Showable{  
+void show();  
+}  
+class A7 implements Printable,Showable{  
+public void print(){System.out.println("Hello");}  
+public void show(){System.out.println("Welcome");}  
+  
+public static void main(String args[]){  
+A7 obj = new A7();  
+obj.print();  
+obj.show();  
+ }  
+}

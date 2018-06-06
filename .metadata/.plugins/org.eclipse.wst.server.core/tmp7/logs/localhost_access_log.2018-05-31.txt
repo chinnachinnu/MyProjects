@@ -1,0 +1,14 @@
+127.0.0.1 - - [31/May/2018:15:38:54 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/login.html HTTP/1.1" 200 3895
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/@coreui/icons/css/coreui-icons.min.css HTTP/1.1" 404 1118
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/flag-icon-css/css/flag-icon.min.css HTTP/1.1" 404 1112
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 1116
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/simple-line-icons/css/simple-line-icons.css HTTP/1.1" 404 1128
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/css/style.css HTTP/1.1" 200 283510
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/vendors/pace-progress/css/pace.min.css HTTP/1.1" 200 1731
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/jquery/dist/jquery.min.js HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/popper.js/dist/umd/popper.min.js HTTP/1.1" 404 1106
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 1110
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/pace-progress/pace.min.js HTTP/1.1" 404 1092
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js HTTP/1.1" 404 1136
+0:0:0:0:0:0:0:1 - - [31/May/2018:15:38:55 +0530] "GET /SampleServ/node_modules/@coreui/coreui/dist/js/coreui.min.js HTTP/1.1" 404 1114

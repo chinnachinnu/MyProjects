@@ -1,0 +1,18 @@
+package demo.app;
+
+import org.hibernate.Session;
+
+public class Sample {
+
+	public static void main(String[] args)
+	{
+		Session ss=HibernateUtilities.getSessionFactory().openSession();
+		ss.beginTransaction();
+		
+		
+		ss.close();
+		HibernateUtilities.getSessionFactory().close();
+		
+	}
+
+}

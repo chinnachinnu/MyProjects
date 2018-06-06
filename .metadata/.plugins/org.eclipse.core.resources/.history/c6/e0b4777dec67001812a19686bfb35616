@@ -1,0 +1,14 @@
+class Static{
+	String withdrawType(){
+		return "nagendra" ;
+	}
+	String withdrawType(int i){
+		return "chinna";
+	}
+}
+class Example1{
+	public static void main(String[] args){
+		Static e=new Static();
+		System.out.println(e.withdrawType());
+		System.out.println(e.withdrawType(0));
+}}
